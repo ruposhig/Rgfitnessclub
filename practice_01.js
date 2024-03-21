@@ -4,7 +4,7 @@ const words = ["Transform Your Body", "Transform Your Life", "Transform Your Fut
 // Variables to track the position and deletion status of the word
 let wordIndex = 0;
 let charIndex = 0;
-let isDeleting = false;
+let isDeleting = false;.
 
 const typeEffect = () => {
     const currentWord = words[wordIndex];
